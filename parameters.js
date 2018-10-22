@@ -1,4 +1,3 @@
-// from -- GraphQL Server Tutorial with Apollo Server and Express - RWieruch
 'use strict';
 
 const { ApolloServer, gql } = require('apollo-server');
